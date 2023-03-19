@@ -2,15 +2,30 @@ h1 {
   color:#ffcb00;
   font-family: "Courier New", Times;
   text-align: center;
+  background: #BBBBBB;
   }
 h2 {
   color:#0000ff;
   font-family: cursive, Times;
   text-align: center;
-  text-variant: small-caps;
+  font-variant: small-caps;
+  background: #BBBBBB;
+  }
+
+  header{
+  	background: #BBBBBB;
   }
 
  body {
-  background-color: #e8faff;
+  background-color:#d4ffeda8;
   font-size: 125%;
+ }
+
+ p {
+ 	font-style: oblique;
+
+ }
+
+ footer {
+ 	background: #BBBBBB;
  }
