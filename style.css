@@ -17,21 +17,30 @@ h2 {
   header{
     border: solid;
   	background: #BBBBBB;
+    margin-bottom: 2%;
   }
 
  body {
   border: groove;
   background-color:#d4ffeda8;
   font-size: 125%;
-  margin: 0 auto;
+  margin: 4px;
  }
 
  p {
+  text-align: center;
   border: solid;
  	font-style: oblique;
-
+  float: left;
+  width: 30%;
+  margin: 1%;
+  background-color: #ceaac8;
  }
 
  footer {
+  clear: none;
+  display: inline-block;
  	background: #BBBBBB;
+  margin-top: 2%;
+  width: 100%;
  }
