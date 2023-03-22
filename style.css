@@ -44,3 +44,13 @@ h2 {
   margin-top: 2%;
   width: 100%;
  }
+
+a:hover {
+  background: #B3B3B3;
+  color: #0006CC;
+}
+
+a:focus {
+  background: #B3B3B3;
+  color: #0006CC;
+}
