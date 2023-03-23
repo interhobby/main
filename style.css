@@ -40,6 +40,10 @@ h2 {
   background: linear-gradient(#ceaac8 0%, #d4ffeda8 100%);
  }
 
+ img {
+  width: 50%;
+ }
+
  footer {
   clear: none;
   display: inline-block;
