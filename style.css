@@ -4,6 +4,7 @@ h1 {
   font-family: "Courier New", Times;
   text-align: center;
   background: #BBBBBB;
+  background: linear-gradient(#BBBBBB 0%, #cc0086 100%);
   }
 h2 {
   border: dotted 40px;
@@ -12,6 +13,7 @@ h2 {
   text-align: center;
   font-variant: small-caps;
   background: #BBBBBB;
+  background: linear-gradient(#BBBBBB 0%, #00ccaf 100%);
   }
 
   header{
@@ -35,6 +37,7 @@ h2 {
   width: 30%;
   margin: 1%;
   background-color: #ceaac8;
+  background: linear-gradient(#ceaac8 0%, #d4ffeda8 100%);
  }
 
  footer {
@@ -44,13 +47,3 @@ h2 {
   margin-top: 2%;
   width: 100%;
  }
-
-a:hover {
-  background: #B3B3B3;
-  color: #0006CC;
-}
-
-a:focus {
-  background: #B3B3B3;
-  color: #0006CC;
-}
